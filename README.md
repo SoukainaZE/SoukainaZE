@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 <p align="center" >
-    <img width="70" src="https://www.shutterstock.com/shutterstock/videos/1080319025/thumb/9.jpg?ip=x480"/> <br> </p>
+    <img width="70" src="C:\Users\HP\Downloads\background_linkdin.png"/> <br> </p>
 <p align="center" > I am ZEKKAKI Soukaina, 👩🏻‍💻 Future GIS engineer / Full Stack developer. <br>💻 🌏 Student in the 3rd year of the engineering cycle option Geo-information at the faculty of science and technology of tangier. <br>I am passionate about IT and GIS in all its dimensions, my passion for IT and GIS pushes me to embark on any opportunity by doing my best to get it. Rigorous, organized, creative, hardworking, motivated to learn and always ready to take on new challenges and experiences.<br></p><br>🌱 I’m currently learning new skills<br>💬 Ask me about what you want
 
 
